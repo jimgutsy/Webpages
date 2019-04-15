@@ -1,0 +1,22 @@
+/*
+ *Name: [Jimmy Lewis]
+ *UnityID: [jwlewis4]
+ *Date: [4/14/19]
+ *Assignment: [Independent Webpage]
+ *Description: [Create a webpage on our own.]
+ */
+ 
+table {
+    border: 3px solid #000000;
+}
+
+.img {
+    max-width: 200px;
+	max-height: 250px;
+	border-width: 18px;
+	border-style: outset;
+}
+
+#background_color {
+    background-color:#ffffcc;
+}
